@@ -22,7 +22,7 @@
         "yaml": "^2.9.0"
     },
     "dependencies": {
-        "dompurify": "^3.4.11",
+        "dompurify": "^3.4.12",
         "fflate": "^0.8.3",
         "fzstd": "^0.1.1",
         "i18next": "26.3.3",
